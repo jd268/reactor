@@ -1,8 +1,10 @@
-### simple demo example of spring boot and webflux ###
+### simple demo example of spring boot and webflux
 
 ## Requirements
 Java - 1.8.x
+
 Maven - 3.x.x
+
 MongoDB - 3.x.x
 
 ## Exploring the Rest APIs
